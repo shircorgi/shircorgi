@@ -30,8 +30,8 @@
 ## 📊 GitHub Statistics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shircorgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shircorgi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shircorgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shircorgi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <br/>
@@ -39,41 +39,62 @@
 ## 🔥 Contribution Streak
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shircorgi&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=shircorgi&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 <br/>
 
+## 📈 Activity Graph
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shircorgi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=shircorgi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<br/>
 
 ## 🎯 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Smurfs Village</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🔵 Smurfs Village</h3>
       <p align="center">
         <a href="https://github.com/Smurfs-village" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smurfs-village&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
+      <p align="center">
+        프로젝트 설명을 여기에 추가하세요
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Moa Moa</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Moa Moa</h3>
       <p align="center">
         <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=moa-moa&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+      </p>
+      <p align="center">
+        프로젝트 설명을 여기에 추가하세요
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Haewooso</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 Haewooso</h3>
       <p align="center">
         <a href="https://github.com/mer-sroom/Haewooso" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=Haewooso&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+      </p>
+      <p align="center">
+        프로젝트 설명을 여기에 추가하세요
       </p>
     </td>
     <td width="50%">
