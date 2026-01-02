@@ -1,67 +1,140 @@
 <div align="center">
 
-# 👋 안녕하세요! 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Welcome%20to%20My%20Profile%20👋&fontSize=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=55&descSize=20)
 
-## 🚀 프론트엔드 개발자
+<br/>
 
-저는 사용자 경험을 중시하는 프론트엔드 개발자입니다. React와 Next.js를 활용한 모던 웹 애플리케이션 개발에 열정을 가지고 있습니다.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=안녕하세요!+반갑습니다+🙋‍♂️;사용자+경험을+중시하는;프론트엔드+개발자입니다+✨)](https://git.io/typing-svg)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Styling & Design
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<br/>
+
+## 🔥 Contribution Streak
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<br/>
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<br/>
+
+## 🎯 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Smurfs Village</h3>
+      <p align="center">
+        <a href="https://github.com/Smurfs-village" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smurfs-village&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Moa Moa</h3>
+      <p align="center">
+        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=moa-moa&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Haewooso</h3>
+      <p align="center">
+        <a href="https://github.com/mer-sroom/Haewooso" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=Haewooso&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:gusrud21234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@gusrud21234/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+## 📈 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<br/>
 
 ---
 
-## 🛠️ 기술 스택
+<br/>
 
-### Languages & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### 💭 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine turns out to be pretty much what you expected."*
 
-### Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br/>
 
----
-
-## 📊 GitHub 통계
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 GitHub 활동 그래프
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 주요 프로젝트
-
-[![Smurfs Village](https://github-readme-stats.vercel.app/api/pin/?username=Smurfs-village&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/Smurfs-village)
-
-[![Moa Moa](https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=moa-moa&theme=tokyonight&hide_border=true)](https://github.com/mer-sroom/moa-moa)
-
-[![Haewooso](https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=Haewooso&theme=tokyonight&hide_border=true)](https://github.com/mer-sroom/Haewooso)
-
----
-
-## 📫 연락처
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusrud21234@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gusrud21234/posts)
-
----
-
-<div align="center">
-  
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false)
-
----
-
-### 💡 "좋은 코드는 읽기 쉬운 코드입니다"
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
 
 </div>
