@@ -36,13 +36,6 @@
 
 <br/>
 
-## 🔥 Contribution Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=shircorgi&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<br/>
 
 ## 📈 Activity Graph
 
@@ -50,13 +43,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=shircorgi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<br/>
 
 ## 🎯 Featured Projects
 
@@ -105,15 +91,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shircorgi/shircorgi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shircorgi/shircorgi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shircorgi/shircorgi/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
 
 ## 📫 Connect With Me
 
