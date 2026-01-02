@@ -100,8 +100,9 @@
         <p>
           <strong>공중화장실 위치 안내 서비스</strong><br/>
           GPS 기반 실시간 위치 추적으로<br/>
-          가장 가까운 공중화장실을 지도에서<br/>
-          한눈에 찾을 수 있는 생활 편의 앱
+          가장 가까운 공중화장실을 <br/>
+          지도에서 한눈에 <br/>
+          찾을 수 있는 생활 편의 앱
         </p>
         <p>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
