@@ -36,13 +36,6 @@
 
 <br/>
 
-## 🔥 Contribution Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=shircorgi&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<br/>
 
 ## 📈 Activity Graph
 
