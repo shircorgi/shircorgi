@@ -52,21 +52,75 @@
 
 
 
-## 🎯 Featured Projects
-
+🎯 Featured Projects
 <table>
   <tr>
-    <td width="스
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🐝 Buddy Bee</h3>
+      <div align="center">
+        <a href="https://github.com/Smurfs-village/Buddy-Bee" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>
+          <strong>서브컬처 펀딩 플랫폼</strong><br/>
+          애니메이션, 게임 등 서브컬처 콘텐츠의<br/>
+          크라우드 펀딩을 쉽게 관리할 수 있는<br/>
+          프로젝트 관리 서비스
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💌 Moa Moa</h3>
+      <div align="center">
+        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>
+          <strong>디지털 롤링페이퍼 공유 서비스</strong><br/>
+          소중한 사람들과 마음을 모아<br/>
+          특별한 메시지를 전달하는<br/>
+          감성 소셜 플랫폼
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚻 Haewooso</h3>
+      <div align="center">
+        <a href="https://github.com/mer-sroom/Haewooso" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p>
+          <strong>공중화장실 위치 안내 서비스</strong><br/>
+          GPS 기반 실시간 위치 추적으로<br/>
+          가장 가까운 공중화장실을 지도에서<br/>
+          한눈에 찾을 수 있는 생활 편의 앱
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        </p>
+      </div>
     </td>
     <td width="50%">
       <br/>
     </td>
   </tr>
 </table>
-
 <br/>
-
 
 
 ## 📫 Connect With Me
