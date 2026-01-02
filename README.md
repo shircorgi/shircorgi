@@ -56,38 +56,18 @@
         </a>
       </p>
       <p align="center">
-        서브컬쳐를 좋아하는 사람들이 쉽게<br/>
-
-## 🛠️ Tech Stack
-
-### Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Styling & Design
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<p>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shircorgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shircorgi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<br/>
-
-
-## 📈 Activity Graph
+        Buddy Bee - 서브컬처 펀딩 프로젝트 관리 서비스
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Moa Moa</h3>
+      <p align="center">
+        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Moamoa - 롤링페이퍼 제공 서비스# 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shircorgi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -106,21 +86,20 @@
         </a>
       </p>
       <p align="center">
-        Buddy Bee - 서브컬쳐 펀딩 프로젝트 관리 서비스
-      </
->     </p>
-     /td>
-    <td width="50%" valig    op">
-      <h3 align="center">📦 Moa     /h3>
-      <p align="    er">
-        <a href="https://github.com/mer-sroom/moa-moa" target="    nk">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=w    " />
+        Buddy Bee - 서브컬처 펀딩 프로젝트 관리 서비스
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Moa Moa</h3>
+      <p align="center">
+        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="    er">
+      <p align="center">
         Moamoa - 롤링페이퍼 제공 서비스
       </p>
-
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
