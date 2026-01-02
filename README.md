@@ -58,7 +58,7 @@
         <p>
           <strong>서브컬처 펀딩 플랫폼</strong><br/>
           서브컬처 콘텐츠의<br/>
-          크라우드 펀딩을 쉽게 관리할 수 있는<br/>
+          크라우드 펀딩을 쉽게 관리하는<br/>
           프로젝트 관리 서비스
         </p>
         <p>
@@ -124,14 +124,6 @@
   <a href="https://velog.io/@gusrud21234/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-</p>
-
-<br/>
-
-## 📈 Profile Views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shircorgi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <br/>
