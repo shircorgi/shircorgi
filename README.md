@@ -55,7 +55,7 @@
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br/><br/>
-         <h4><strong>서브컬처 펀딩 플랫폼</strong></h4>
+         <p><strong>서브컬처 펀딩 플랫폼</strong></p>
          <p style="font-size: 12px; color: #8b949e;">
           서브컬처 콘텐츠의<br/>
           크라우드 펀딩을 <br/>
@@ -75,7 +75,7 @@
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br/><br/>
-          <h4><strong>디지털 롤링페이퍼 공유 서비스</strong></h4>
+          <p><strong>디지털 롤링페이퍼 공유 서비스</strong></p>
           <p style="font-size: 12px; color: #8b949e;">
           특별한 메시지를 전달하는<br/>
           감성 소셜 플랫폼
@@ -96,7 +96,7 @@
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br/><br/>
-          <h4><strong>공중화장실 위치 안내 서비스</strong></h4>
+          <p><strong>공중화장실 위치 안내 서비스</strong></p>
           <p style="font-size: 12px; color: #8b949e;">
           GPS 기반 실시간 위치 추적으로<br/>
           가까운 공중화장실을 지도에서<br/>
