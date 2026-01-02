@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 안녕하세요! 
 
 ## 🚀 프론트엔드 개발자
@@ -22,14 +24,10 @@
 ---
 
 ## 📊 GitHub 통계
-
-<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -43,15 +41,11 @@
 
 ## 🎯 주요 프로젝트
 
-<div align="center">
-
 [![Smurfs Village](https://github-readme-stats.vercel.app/api/pin/?username=Smurfs-village&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/Smurfs-village)
 
 [![Moa Moa](https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=moa-moa&theme=tokyonight&hide_border=true)](https://github.com/mer-sroom/moa-moa)
 
 [![Haewooso](https://github-readme-stats.vercel.app/api/pin/?username=mer-sroom&repo=Haewooso&theme=tokyonight&hide_border=true)](https://github.com/mer-sroom/Haewooso)
-
-</div>
 
 ---
 
@@ -66,11 +60,7 @@
   
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💡 "좋은 코드는 읽기 쉬운 코드입니다"
 
