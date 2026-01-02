@@ -36,6 +36,13 @@
 
 <br/>
 
+## 🔥 Contribution Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=shircorgi&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<br/>
 
 ## 📈 Activity Graph
 
@@ -44,73 +51,12 @@
 <br/>
 
 
-## 🎯 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔵 Smurfs Village</h3>
-      <p align="center">
-        <a href="https://github.com/Smurfs-village" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Buddy Bee - 서브컬처 펀딩 프로젝트 관리 서비스
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Moa Moa</h3>
-      <p align="center">
-        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Moamoa - 롤링페이퍼 제공 서비스# 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shircorgi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
 
 ## 🎯 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔵 Smurfs Village</h3>
-      <p align="center">
-        <a href="https://github.com/Smurfs-village" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Buddy Bee - 서브컬처 펀딩 프로젝트 관리 서비스
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Moa Moa</h3>
-      <p align="center">
-        <a href="https://github.com/mer-sroom/moa-moa" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Moamoa - 롤링페이퍼 제공 서비스
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 Haewooso</h3>
-      <p align="center">
-        <a href="https://github.com/mer-sroom/Haewooso" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        해우소 - 한국 공용화장실 위치 안내 서비스
+    <td width="스
       </p>
     </td>
     <td width="50%">
@@ -135,6 +81,17 @@
 </p>
 
 <br/>
+
+## 📈 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shircorgi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<br/>
+
+<br/>
+
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
