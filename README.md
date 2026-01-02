@@ -44,19 +44,7 @@
 
 <br/>
 
-## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shircorgi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=shircorgi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<br/>
 
 ## 🎯 Featured Projects
 
