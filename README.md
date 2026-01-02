@@ -55,8 +55,8 @@
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br/><br/>
-         <h4> <strong>서브컬처 펀딩 플랫폼</strong><h4>
-          <p style= "font-size: 14px; color: #8b949e;">
+         <h4><strong>서브컬처 펀딩 플랫폼</strong></h4>
+         <p style="font-size: 14px; color: #8b949e;">
           서브컬처 콘텐츠의<br/>
           크라우드 펀딩을 <br/>
           쉽게 관리하는<br/>
