@@ -106,19 +106,8 @@
 
 <br/>
 
-## 📈 Profile Views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shircorgi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
-
-<br/>
 
 ---
-
-<br/>
-
-### 💭 *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine turns out to be pretty much what you expected."*
 
 <br/>
 
